@@ -9,8 +9,14 @@
 }
 
 body {
-    
+    background-color: var(--azul-muito-claro);
 }
+
+.imgbackground {
+    width: max-content;
+    height: max-content;
+}
+
 
 /* Responsividade
 - Mobile: 375px
