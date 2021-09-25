@@ -8,13 +8,50 @@
     --roxo-forte: hsl(245, 75%, 52%);
 }
 
+* {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
 body {
-    background-color: var(--azul-muito-claro);
+    background-color: var(--azul-claro);
 }
 
 .imgbackground {
-    width: max-content;
-    height: max-content;
+    background: url(images/pattern-background-mobile.svg) no-repeat center/cover;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.caixa {
+    background-color: white;
+    width: 450px; 
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 10px 25px hsla(0, 0%, 0%, 0.178);
+}
+
+.caixa img {
+    border-radius: 15px 15px 0px 0px;
+}
+
+.summary {
+    font-weight: 900px;
+    color: var(--azul-muito-escuro);
+}
+
+@media (min-width: 768px) {
+    .imgbackground {
+        background: url(images/pattern-background-desktop.svg) no-repeat center/cover;
+        height: 50vh;
+    }
 }
 
 
