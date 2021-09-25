@@ -47,14 +47,13 @@ body {
     color: var(--azul-muito-escuro);
 }
 
+
 @media (min-width: 768px) {
     .imgbackground {
         background: url(images/pattern-background-desktop.svg) no-repeat center/cover;
         height: 50vh;
     }
 }
-
-
 /* Responsividade
 - Mobile: 375px
 - Desktop: 1440px
