@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 
 :root {
+    --azul-muito-claro: hsl(225, 100%, 98%);
+    --azul-claro: hsl(225, 100%, 94%);
+    --azul-escuro: hsl(224, 23%, 55%);
+    --azul-muito-escuro: hsl(223, 47%, 23%);
+    --roxo-forte: hsl(245, 75%, 52%);
+}
+
+body {
     
 }
+
+/* Responsividade
+- Mobile: 375px
+- Desktop: 1440px
+*/
