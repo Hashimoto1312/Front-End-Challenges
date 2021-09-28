@@ -129,14 +129,14 @@ nav a {
     font-weight: bolder;
 }
 
-@media (min-width: 768px) {
+/* Responsividade
+- Mobile: 375px
+- Desktop: 1440px
+*/
+
+@media (min-width: 375px) {
     .imgbackground {
         background: url(images/pattern-background-desktop.svg) no-repeat center/cover;
         height: 50vh;
     }
 }
-
-/* Responsividade
-- Mobile: 375px
-- Desktop: 1440px
-*/
