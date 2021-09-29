@@ -32,6 +32,8 @@ p {
 
 #container {
     display: flex;
+    margin: 200px;
+    padding: 0px 200px 0px 200px;
     flex-direction: row;
     align-items: center;
 }
