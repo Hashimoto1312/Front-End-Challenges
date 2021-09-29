@@ -134,9 +134,9 @@ nav a {
 - Desktop: 1440px
 */
 
-@media (min-width: 375px) {
+@media (min-width: 768px) {
     .imgbackground {
         background: url(images/pattern-background-desktop.svg) no-repeat center/cover;
-        height: 50vh;
+        height: 60vh;
     }
 }
