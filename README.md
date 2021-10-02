@@ -3,6 +3,6 @@
 ### Status : 🛠️ Em construção ... 🚧
 
 ### ✔️ Order summary component
-### ✔️ 3-column preview card component
+### ✔️ 3 column preview card component
 ### ⛔ Profile card component
 ### ⛔ FAQ accordion card
