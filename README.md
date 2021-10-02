@@ -6,3 +6,4 @@
 ### ✔️ 3 column preview card component
 ### ⛔ Profile card component
 ### ⛔ FAQ accordion card
+### ⛔ Single price grid component master
