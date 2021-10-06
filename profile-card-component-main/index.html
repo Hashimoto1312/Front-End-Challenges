@@ -2,34 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/design/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
   <title>Frontend Mentor | Profile card component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
 </head>
 <body>
-  Victor Crest
-  26
-  London
 
-  80K
-  Followers
+  <main id="container">
 
-  803K
-  Likes
+    <div class="card-background">
+      <img src="images/bg-pattern-card.svg" alt="Background do card">
+    </div>
 
-  1.4K
-  Photos
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+    <div class="person-img">
+      <img src="images/image-victor.jpg" alt="">
+    </div>
+    
+    <div class="person-informations">
+      <h3>Victor Crest 26</h3>
+      <p>London</p>
+    </div>
+
+    <div class="person-statistics">
+      <h3>80K 803K 1.4K</h3>
+      <p>Followers Likes Photos</p>
+    </div>
+
+  </main>
+
+  <footer class="author">
+    <nav>
+      <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/Hashimoto1312" target="_blank">Kendi Hashimoto</a>.</p>
+    </nav>
+  </footer>
 </body>
 </html>
