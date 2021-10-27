@@ -1,3 +1,4 @@
+<div align="center">
 <h1> 🔰 Profile Card Component </h1>
 <h2> 📎 Link : <a href="https://cocky-bhaskara-1e7999.netlify.app">Profile Card Component </h2>
 
@@ -6,3 +7,4 @@
  <h1> 🛠 Tecnologias utilizadas : <br>
    <img align="center" alt="Hashimoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Hashimoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
