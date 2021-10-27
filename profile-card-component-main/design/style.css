@@ -12,10 +12,6 @@
     box-sizing: border-box;
 }
 
-/* font-family: 'Kumbh Sans', sans-serif; */
-
-/* BACKGROUND IMAGES */
-
 body {
     background-color: hsl(185, 53%, 41%)
 }
@@ -34,44 +30,85 @@ a {
     text-decoration: none;
 }
 
+hr {
+    margin: 30px 0px 0px 0px;
+    opacity: 0.3;
+}
+
 #container {
     background-color: white;
     width: 350px; 
-    margin: 17vh auto 20vw;
+    margin: 150px auto;
     border-radius: 0 0 15px 15px;
     text-align: center;
     justify-content: center;
     box-shadow: 0px 10px 30px hsla(0, 0%, 0%, 0.178);
-}
-
-#card-background {
-    border-radius: 15px 15px 0px 0px;
+    overflow: hidden;
+    border-radius: 15px;
+    position: relative;
 }
 
 .person-img img {
     border: solid 5px white;
     border-radius: 50%;
+    overflow: hidden;
+    margin: -50px auto;
+    position: relative;
+    top: -13px;
+    z-index: 4;
 }
 
-.person-informations {
-
+/* Informações abaixo da imagem */
+.person-informations h3 {
+    margin-top: 55px;
 }
 
+.city {
+    margin-top: 12px;
+}
+
+.age {
+    font-weight: 400;
+}
+
+/* Container das estatísicas */
 .person-statistics {
-    display: flex;
-    flex-direction: column;
     padding: 20px;
 }
 
+.numbers-statistics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.likes {
+    position: relative;
+    right: 10px;
+}
+
+.followers {
+    position: relative;
+    right: 9px;
+}
+
+.content-statistics {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 3px 0px 0px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* FOOTER */
 .author {
     text-decoration: none;
     font-size: 20px;
     width: 350px; 
-    margin-top: 90px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     text-align: center;
     justify-content: center;
     align-items: flex-end;
+    color: white;
+    position: relative;
 }
 
