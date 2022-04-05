@@ -1,6 +1,5 @@
 <div align="center">
 <h1> 🔰 Profile Card Component </h1>
-<h2> 📎 Link : <a href="https://cocky-bhaskara-1e7999.netlify.app">Profile Card Component </h2>
 
 <img src="https://user-images.githubusercontent.com/71889483/139088169-41bc1dc0-6b8d-4106-ad8b-13fc5ca2d13b.png">
 
