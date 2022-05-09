@@ -1,4 +1,5 @@
 # Frontend Mentor - Single price grid component
+# Link : https://glittery-crepe-db66e6.netlify.app
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
