@@ -1,4 +1,5 @@
 # 🔰 3 column preview card component
+# Link : https://sparkling-kringle-0338ce.netlify.app
 ![image](https://user-images.githubusercontent.com/71889483/135727176-14e308b6-9d6a-4133-9a5d-a8b6a5943601.png)
   
 <div style="display: inline_block" align="center">
