@@ -1,5 +1,5 @@
 # 🔰 Order Summary Component Main
-# Link ; https://relaxed-chebakia-d6ed7b.netlify.app
+# Link : https://relaxed-chebakia-d6ed7b.netlify.app
  ![image](https://user-images.githubusercontent.com/71889483/135727139-364a267a-83c3-4aba-a929-94ea2c4c9620.png)
  
  <div style="display: inline_block" align="center">
