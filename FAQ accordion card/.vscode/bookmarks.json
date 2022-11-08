@@ -1,11 +1,11 @@
 {
 	"files": [
 		{
-			"path": "src/style.css",
+			"path": "dist/output.css",
 			"bookmarks": [
 				{
-					"line": 16,
-					"column": 2,
+					"line": 515,
+					"column": 0,
 					"label": ""
 				}
 			]
